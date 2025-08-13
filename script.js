@@ -23,6 +23,7 @@ const resetGmae =()=>{
     enableboxes();
     turnO=true;
    msgContainer.classList.add("msg");
+   count = 0;
 
     
 }
